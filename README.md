@@ -30,13 +30,7 @@ Deployed using **Streamlit Cloud**, this project demonstrates my ability to clea
 ├── tmdb_5000_credits.csv # Original credits data
 ├── requirements.txt # Python dependencies
 
-⚙️ How to Run Locally
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/your-username/netflix-recommender.git
-   cd netflix-recommender
-   
+  
 Install dependencies:
 pip install -r requirements.txt
 
