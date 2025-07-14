@@ -24,10 +24,15 @@ Deployed using **Streamlit Cloud**, this project demonstrates my ability to clea
 🗂️ Project Structure
 
 app.py # Main Streamlit app
+
 movies.pkl # Processed movie metadata
+
 similarity.pkl # Cosine similarity matrix
+
 tmdb_5000_movies.csv # Original movie data
+
 tmdb_5000_credits.csv # Original credits data
+
 requirements.txt # Python dependencies
 
   
