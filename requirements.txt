@@ -1,5 +1,5 @@
 Requirements.txt
-streamlit == 1.45.1   - App interface
-pandas == 2.3.0.      - For CVS/ dataframe handling
-scikit-learn == 1.4.2 - For similarity matrix generation
+streamlit == 1.45.1   
+pandas == 2.3.0.      
+scikit-learn == 1.4.2 
 numpy
